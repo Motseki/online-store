@@ -9,7 +9,7 @@
                 },
                 {
                     "key": "Access-Control-Allow-Origin",
-                    "value": "https://motsekistore.vercel.app/" 
+                    "value": "https://motsekistore.vercel.app" 
                 },
                 {
                     "key": "Access-Control-Allow-Methods",
